@@ -1,0 +1,13 @@
+.logo{
+    text-align: center;
+}
+
+.adress{
+    text-align: center;
+}
+
+ul li{
+    margin-left: 10%;
+    text-align: center;
+    display: flex;
+}
